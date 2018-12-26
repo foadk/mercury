@@ -1,5 +1,3 @@
-venus
-mercury
 earth
 earth's moon
 mars
